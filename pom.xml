@@ -10,9 +10,9 @@
   </build>
   <description>reflections, annotations, regex</description>
   <modules>
-  	<module>InfoForClass</module>
-  	<module>Annotation</module>
-  	<module>RegularExpressions</module>
+  	<module>infoforclass</module>
+  	<module>annotation</module>
+  	<module>regularexpressions</module>
   </modules>
   
   

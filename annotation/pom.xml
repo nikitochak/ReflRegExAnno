@@ -6,7 +6,7 @@
     <version>0.0.1-SNAPSHOT</version>
   </parent>
   <artifactId>annotation</artifactId>
-  <name>Annotation</name>
+  <name>annotation</name>
   <description>The tasks with annotation.
 The tasks  with  annotations.</description>
 </project>

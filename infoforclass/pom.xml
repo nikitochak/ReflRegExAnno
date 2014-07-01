@@ -6,7 +6,7 @@
     <version>0.0.1-SNAPSHOT</version>
   </parent>
   <artifactId>infoforclass</artifactId>
-  <name>InfoForClass</name>
+  <name>infoforclass</name>
   
   
   <description>gets the info for class</description>
